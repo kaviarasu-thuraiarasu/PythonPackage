@@ -1,0 +1,11 @@
+notebook
+ipywidgets
+ensure
+py-youtube
+
+# Dev Requirements
+pytest
+tox
+black # Formatting purposes
+flake8 # used for linting(i.e Finding out any errors)
+mypy # Used for type checking
